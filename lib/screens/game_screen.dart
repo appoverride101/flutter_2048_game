@@ -1,4 +1,3 @@
-// lib/screens/game_screen.dart
 import 'package:flutter/material.dart';
 import '../models/game.dart';
 import '../widgets/tile_widget.dart';
